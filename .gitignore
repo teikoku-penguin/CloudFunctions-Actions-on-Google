@@ -1,0 +1,8 @@
+**/node_modules/*
+**/.firebaserc
+**/lib/
+*/npm-debug.log
+lerna-debug.log
+*~
+service-account-credentials.json
+**/package-lock.json
